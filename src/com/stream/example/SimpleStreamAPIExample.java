@@ -25,8 +25,6 @@ public class SimpleStreamAPIExample {
         Stream stream = list.stream();
      System.out.println("Distinct List :: "+ result);
 
-
-
     }
 
 }
